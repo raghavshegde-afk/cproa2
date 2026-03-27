@@ -1,0 +1,8 @@
+[ID=1] Weather Man - Valley of Wolves
+[ID=2] Viva La Vida - Coldplay
+[ID=3] Mr Brightside - The Killers
+[ID=4] Photograph - Ed Sheeran
+[ID=5] Numb - Linkin Park
+[ID=6] The Emptiness Machine - Linkin Park
+[ID=7] Rise - Valley of Wolves
+[ID=8] Blinding Lights - The Weeknd
