@@ -32,3 +32,4 @@ addtoplaylist
 next
 next
 next
+addtoplaylist
